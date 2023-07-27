@@ -57,7 +57,7 @@ document.querySelector(".check").addEventListener("click", function () {
 
   document.querySelector(".btn.again").addEventListener("click", function () {
     score = 20;
-    const secretNumber = Math.trunc(Math.random() * 20) + 1;
+    secretNumber = Math.trunc(Math.random() * 20) + 1;
     displayMessage("Start guessing...");
     document.querySelector(".score").textContent = score;
     document.querySelector(".number").textContent = "?";
