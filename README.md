@@ -1,6 +1,7 @@
 # Guess My Number Game
 ## Welcome to the Guess My Number Game, a classic and fun game where your goal is to guess the correct number and win! In this game, you'll find an old-school gaming interface that adds to the excitement.
 <br/>
+
 ## Game Overview
 ### Objective: Your mission is to guess the hidden "Secret Number" correctly.
 ### Gameplay: You make guesses, and the JavaScript code checks if your guess is higher, lower, or the correct secret number.
